@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "scalinghealthprogress:enderman_heart"
+    }
+  ],
+	"result": {
+		"item": "scalinghealth:heartcontainer",
+		"count": 2
+	}
+}

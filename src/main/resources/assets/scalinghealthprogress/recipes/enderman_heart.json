@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"eee",
+		"ehe",
+		"eee"
+	],
+	"key": {
+		"h": {
+			"item": "scalinghealth:heartcontainer"
+		},
+		"e": {
+			"item": "scalinghealthprogress:enderman_shard"
+		}
+	},
+	"result": {
+		"item": "scalinghealthprogress:enderman_heart",
+		"count": 1
+	}
+}

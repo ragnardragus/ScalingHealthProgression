@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"eee",
+		"ehe",
+		"eee"
+	],
+	"key": {
+		"h": {
+			"item": "scalinghealthprogress:enderdragon_heart"
+		},
+		"e": {
+			"item": "minecraft:diamond_block"
+		}
+	},
+	"result": {
+		"item": "scalinghealthprogress:heartcontainer_diamond",
+		"count": 1
+	}
+}

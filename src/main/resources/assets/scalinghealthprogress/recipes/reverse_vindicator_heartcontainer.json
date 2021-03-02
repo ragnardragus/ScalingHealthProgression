@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "scalinghealthprogress:wither_heart"
+    }
+  ],
+	"result": {
+		"item": "scalinghealthprogress:vindicator_heart",
+		"count": 2
+	}
+}

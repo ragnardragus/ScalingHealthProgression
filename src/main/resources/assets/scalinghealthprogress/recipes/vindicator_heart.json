@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"eee",
+		"ehe",
+		"eee"
+	],
+	"key": {
+		"h": {
+			"item": "scalinghealthprogress:blaze_heart"
+		},
+		"e": {
+			"item": "scalinghealthprogress:vindicator_shard"
+		}
+	},
+	"result": {
+		"item": "scalinghealthprogress:vindicator_heart",
+		"count": 1
+	}
+}

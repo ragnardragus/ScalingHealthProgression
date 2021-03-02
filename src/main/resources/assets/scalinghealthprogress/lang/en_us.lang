@@ -1,0 +1,82 @@
+
+item.enderman_heart.name=Enderman Heart Container
+item.blaze_heart.name=Blaze Heart Container
+item.vindicator_heart.name=Vindicator Heart Container
+item.wither_heart.name=Wither Heart Container
+item.guardian_heart.name=Guardian Heart Container
+item.witherboss_heart.name=Wither Boss Heart Container
+item.enderdragon_heart.name=Ender Dragon Heart Container
+item.heartcontainer_diamond.name=Diamond Heart Container
+item.heartcontainer_iron.name=Iron Heart Container
+item.heartcontainer_gold.name=Gold Heart Container
+
+item.scalinghealthprogress.enderman_heart.notEnoughXP=You need %d XP levels to use this
+item.scalinghealthprogress.blaze_heart.notEnoughXP=You need %d XP levels to use this
+item.scalinghealthprogress.vindicator_heart.notEnoughXP=You need %d XP levels to use this
+item.scalinghealthprogress.wither_heart.notEnoughXP=You need %d XP levels to use this
+item.scalinghealthprogress.guardian_heart.notEnoughXP=You need %d XP levels to use this
+item.scalinghealthprogress.witherboss_heart.notEnoughXP=You need %d XP levels to use this
+item.scalinghealthprogress.enderdragon_heart.notEnoughXP=You need %d XP levels to use this
+item.scalinghealthprogress.heartcontainer_iron.notEnoughXP=You need %d XP levels to use this
+item.scalinghealthprogress.heartcontainer_gold.notEnoughXP=You need %d XP levels to use this
+item.scalinghealthprogress.heartcontainer_diamond.notEnoughXP=You need %d XP levels to use this
+
+item.enderman_shard.name=Heart Crystal Shard (Enderman)
+item.blaze_shard.name=Heart Crystal Shard (Blaze)
+item.vindicator_shard.name=Heart Crystal Shard (Vindicator)
+item.wither_shard.name=Heart Crystal Shard (Wither Skeleton)
+item.guardian_shard.name=Heart Crystal Shard (Guardian)
+item.witherboss_shard.name=Heart Crystal Shard (Wither Boss)
+item.enderdragon_shard.name=Heart Crystal Shard (Ender Dragon)
+
+item.heartcontainer_p.desc=Increases maximum health
+
+scalinghealthprogress.hearts_need_equals=You need to have %s hearts
+scalinghealthprogress.hearts_need_minimum=You need to have %s hearts or less
+scalinghealthprogress.hearts_need_maximum=You need to have %s hearts or more
+scalinghealthprogress.hearts_need_range=You need to have between %s and %s hearts
+
+scalinghealthprogress.config.title=Scaling Health Progress
+scalinghealthprogress.config.heartcontainer.category=Heart Container
+scalinghealthprogress.config.enderman_heart.category=Enderman Heart Container
+scalinghealthprogress.config.blaze_heart.category=Blaze Heart Container
+scalinghealthprogress.config.enderdragon_heart.category=Ender Dragon Heart Container
+scalinghealthprogress.config.guardian_heart.category=Guardian Heart Container
+scalinghealthprogress.config.heartcontaoner_diamond.category=Diamond Heart Container
+scalinghealthprogress.config.heartcontaoner_gold.category=Gold Heart Container
+scalinghealthprogress.config.heartcontaoner_iron.category=Iron Heart Container
+scalinghealthprogress.config.vindicatorheart.category=Vindicator Heart Container
+scalinghealthprogress.config.witherheart.category=Wither Heart Container
+scalinghealthprogress.config.witherboss_heart.category=Wither Boss Heart Container
+
+scalinghealthprogress.config.heartcontainer.minimum_hearts=Minimum Hearts: Heart Container
+scalinghealthprogress.config.enderman_heart.minimum_hearts=Minimum Hearts: Enderman Heart Container
+scalinghealthprogress.config.enderman_heart.maximum_hearts=Maximum Hearts: Enderman Heart Container
+scalinghealthprogress.config.enderman_heart.minimum_levels=Minimum Levels: Enderman Heart Container
+scalinghealthprogress.config.blaze_heart.minimum_hearts=Minimum Hearts: Blaze Heart Container
+scalinghealthprogress.config.blaze_heart.maximum_hearts=Maximum Hearts: Blaze Heart Container
+scalinghealthprogress.config.blaze_heart.minimum_levels=Minimum Levels: Blaze Heart Container
+scalinghealthprogress.config.vindicator_heart.minimum_hearts=Minimum Hearts: Vindicator Heart Container
+scalinghealthprogress.config.vindicator_heart.maximum_hearts=Maximum Hearts: Vindicator Heart Container
+scalinghealthprogress.config.vindicator_heart.minimum_levels=Minimum Levels: Vindicator Heart Container
+scalinghealthprogress.config.wither_heart.minimum_hearts=Minimum Hearts: Wither Heart Container
+scalinghealthprogress.config.wither_heart.maximum_hearts=Maximum Hearts: Wither Heart Container
+scalinghealthprogress.config.wither_heart.minimum_levels=Minimum Levels: Wither Heart Container
+scalinghealthprogress.config.guardian_heart.minimum_hearts=Minimum Hearts: Guardian Heart Container
+scalinghealthprogress.config.guardian_heart.maximum_hearts=Maximum Hearts: Guardian Heart Container
+scalinghealthprogress.config.guardian_heart.minimum_levels=Minimum Levels: Guardian Heart Container
+scalinghealthprogress.config.witherboss_heart.minimum_hearts=Minimum Hearts: Wither Boss Heart Container
+scalinghealthprogress.config.witherboss_heart.maximum_hearts=Maximum Hearts: Wither Boss Heart Container
+scalinghealthprogress.config.witherboss_heart.minimum_levels=Minimum Levels: Wither Boss Heart Container
+scalinghealthprogress.config.enderdragon_heart.minimum_hearts=Minimum Hearts: Ender Dragon Heart Container
+scalinghealthprogress.config.enderdragon_heart.maximum_hearts=Maximum Hearts: Ender Dragon Heart Container
+scalinghealthprogress.config.enderdragon_heart.minimum_levels=Minimum Levels: Ender Dragon Heart Container
+scalinghealthprogress.config.heartcontainer_iron.minimum_hearts=Minimum Hearts: Iron Heart Container
+scalinghealthprogress.config.heartcontainer_iron.maximum_hearts=Maximum Hearts: Iron Heart Container
+scalinghealthprogress.config.heartcontainer_iron.minimum_levels=Minimum Levels: Iron Heart Container
+scalinghealthprogress.config.heartcontainer_gold.minimum_hearts=Minimum Hearts: Gold Heart Container
+scalinghealthprogress.config.heartcontainer_gold.maximum_hearts=Maximum Hearts: Gold Heart Container
+scalinghealthprogress.config.heartcontainer_gold.minimum_levels=Minimum Levels: Gold Heart Container
+scalinghealthprogress.config.heartcontainer_diamond.minimum_hearts=Minimum Hearts: Diamond Heart Container
+scalinghealthprogress.config.heartcontainer_diamond.maximum_hearts=Maximum Hearts: Diamond Heart Container
+scalinghealthprogress.config.heartcontainer_diamond.minimum_levels=Minimum Levels: Diamond Heart Container
